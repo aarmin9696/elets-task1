@@ -1,6 +1,6 @@
 # Deployed link - https://elets-tech-piyush.netlify.app/
 
-## Instalation 
+## Installation 
 
 1. Clone the Repository: - open terminal/bash
 
